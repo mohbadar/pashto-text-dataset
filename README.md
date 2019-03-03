@@ -17,6 +17,7 @@ Data gathering is the process of collecting data from sources. It is the most ch
 4.	Web server sends the document data gathering.
 5.	The script stores the document to the central repository of documents.
 
+<img src="/asset/data-collection.PNG" />
 
 ## Data Cleaning 
 
