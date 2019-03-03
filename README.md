@@ -26,7 +26,7 @@ Data Cleaning is the process of detecting and correcting of any inaccurate, corr
 •	Detect all inaccurate, corrupted, duplicated, null and empty records
 •	Remove the improper records
 
-
+<img src="/asset/data-cleaning.PNG" />
 
 To clean the data I have written a script to apply our data cleaning procedure. 
 
